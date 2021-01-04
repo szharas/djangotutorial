@@ -1,0 +1,16 @@
+[flake8]
+exclude =
+    .git,
+    .gitignore,
+    __pycache__,
+    docs/source/conf.py,
+    old,
+    build,
+    dist,
+	migrations,
+    venv,
+    .idea,
+    db.*,
+    tests,
+    manage.py,
+    settings.py,
